@@ -1,0 +1,460 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<docs>
+  <doc name="神" url="http://baike.baidu.com/view/0000000000000000000000000000000616.html" id="1" baike_id="616" time="2013-03-01 10:28:18">
+    <par>
+      <sentence>
+        <s_text>神，指哈尔滨工业大学的精神；也用于形容高深莫；测迷信的人称天地万物的创造者和所崇拜的人死后的精灵为神；同时神也作为姓氏。</s_text>
+        <e start="0" length="1" baike_id="NULL" type="doc_name">神</e>
+        <e start="3" length="7" baike_id="NULL" type="Ni|bigcilin">哈尔滨工业大学</e>
+        <e start="34" length="3" baike_id="NULL" type="bigcilin">创造者</e>
+      </sentence>
+    </par>
+    <par>
+      <sentence>
+        <s_text>轩辕有土德之瑞，尊称黄帝。</s_text>
+        <e start="0" length="2" baike_id="NULL" type="Nh">轩辕</e>
+        <e start="10" length="2" baike_id="1989" type="Nh|href">黄帝</e>
+      </sentence>
+      <sentence>
+        <s_text>为中华民族始祖，人文初祖，中国远古时期部落联盟首领。</s_text>
+        <e start="1" length="4" baike_id="9440" type="bigcilin|href">中华民族</e>
+        <e start="8" length="4" baike_id="NULL" type="bigcilin">人文初祖</e>
+        <e start="13" length="2" baike_id="NULL" type="Ns">中国</e>
+        <e start="19" length="4" baike_id="NULL" type="bigcilin">部落联盟</e>
+        <e start="23" length="2" baike_id="1148923" type="href">首领</e>
+      </sentence>
+      <sentence>
+        <s_text>黄帝（英文：The huangdi；Yellow emperor），公元前2697-前2599年。</s_text>
+        <e start="0" length="2" baike_id="NULL" type="Nh">黄帝</e>
+        <e start="34" length="3" baike_id="NULL" type="bigcilin">公元前</e>
+      </sentence>
+      <sentence>
+        <s_text>黄帝诞辰是二月初二（“二月二龙抬头”吉祥之意正是源于此）。</s_text>
+        <e start="0" length="2" baike_id="NULL" type="Nh">黄帝</e>
+        <e start="5" length="4" baike_id="NULL" type="bigcilin">二月初二</e>
+      </sentence>
+      <sentence>
+        <s_text>轩辕即黄帝者，少典与附宝之子，取名轩辕，为轩辕氏。</s_text>
+        <e start="0" length="2" baike_id="NULL" type="Nh">轩辕</e>
+        <e start="21" length="3" baike_id="NULL" type="Nh">轩辕氏</e>
+      </sentence>
+      <sentence>
+        <s_text>生而神灵，弱而能言，幼而徇齐，长而敦敏，成而聪明。</s_text>
+      </sentence>
+      <sentence>
+        <s_text>轩辕之时，神农氏世衰。</s_text>
+        <e start="5" length="3" baike_id="2859" type="Nh|bigcilin|href">神农氏</e>
+      </sentence>
+      <sentence>
+        <s_text>诸侯相侵伐，暴虐百姓，而神农氏不能征。</s_text>
+        <e start="0" length="3" baike_id="NULL" type="bigcilin">诸侯相</e>
+        <e start="12" length="3" baike_id="NULL" type="bigcilin">神农氏</e>
+      </sentence>
+      <sentence>
+        <s_text>于是轩辕乃习用干戈，以征不享，诸侯咸来宾从。</s_text>
+        <e start="2" length="2" baike_id="NULL" type="Nh">轩辕</e>
+      </sentence>
+      <sentence>
+        <s_text>而蚩尤最为暴，莫能伐。</s_text>
+        <e start="1" length="2" baike_id="NULL" type="Nh">蚩尤</e>
+      </sentence>
+      <sentence>
+        <s_text>炎帝欲侵陵诸侯，诸侯咸归轩辕。</s_text>
+        <e start="0" length="2" baike_id="NULL" type="Nh">炎帝</e>
+        <e start="12" length="2" baike_id="NULL" type="Nh">轩辕</e>
+      </sentence>
+      <sentence>
+        <s_text>轩辕乃修德振兵，治五气，艺五种，抚万民，度四方，教熊罴貔貅貙虎，以与炎帝战于阪泉之野。</s_text>
+        <e start="0" length="2" baike_id="NULL" type="Nh">轩辕</e>
+        <e start="8" length="2" baike_id="NULL" type="Nh">治五</e>
+        <e start="25" length="2" baike_id="473544" type="href">熊罴</e>
+        <e start="38" length="4" baike_id="NULL" type="bigcilin">阪泉之野</e>
+      </sentence>
+      <sentence>
+        <s_text>三战，然后得其志。</s_text>
+      </sentence>
+      <sentence>
+        <s_text>蚩尤作乱，不用帝命。</s_text>
+        <e start="0" length="2" baike_id="NULL" type="Nh">蚩尤</e>
+      </sentence>
+      <sentence>
+        <s_text>于是黄帝乃征师诸侯，与蚩尤战于涿鹿之野，遂禽杀蚩尤。</s_text>
+        <e start="2" length="2" baike_id="NULL" type="Nh">黄帝</e>
+        <e start="11" length="2" baike_id="NULL" type="Nh">蚩尤</e>
+        <e start="15" length="2" baike_id="NULL" type="Ns">涿鹿</e>
+        <e start="15" length="4" baike_id="NULL" type="bigcilin">涿鹿之野</e>
+      </sentence>
+      <sentence>
+        <s_text>而诸侯咸尊轩辕为天子，代神农氏，是为黄帝。</s_text>
+        <e start="3" length="4" baike_id="NULL" type="Nh">咸尊轩辕</e>
+        <e start="12" length="3" baike_id="NULL" type="bigcilin">神农氏</e>
+        <e start="18" length="2" baike_id="NULL" type="Nh">黄帝</e>
+      </sentence>
+      <sentence>
+        <s_text>天下有不顺者，黄帝从而征之，平者去之，披山通道，未尝宁居。</s_text>
+        <e start="7" length="2" baike_id="NULL" type="Nh">黄帝</e>
+        <e start="19" length="2" baike_id="NULL" type="Ns">披山</e>
+        <e start="26" length="2" baike_id="4057254" type="href">宁居</e>
+      </sentence>
+    </par>
+    <par>
+      <sentence>
+        <s_text>在1970年代末，由於新界租期将在大约20年後届满，中、英政府遂就香港前途展开谈判。</s_text>
+        <e start="11" length="2" baike_id="36972" type="Ns|href">新界</e>
+        <e start="26" length="1" baike_id="NULL" type="Ns">中</e>
+        <e start="28" length="3" baike_id="NULL" type="Ni">英政府</e>
+        <e start="33" length="2" baike_id="NULL" type="Ns">香港</e>
+      </sentence>
+      <sentence>
+        <s_text>1984年12月19日，中英双方在北京签署了中英联合声明。</s_text>
+        <e start="0" length="5" baike_id="46077" type="href">1984年</e>
+        <e start="5" length="6" baike_id="288647" type="bigcilin|href">12月19日</e>
+        <e start="12" length="1" baike_id="NULL" type="Ns">中</e>
+        <e start="13" length="1" baike_id="NULL" type="Ns">英</e>
+        <e start="14" length="3" baike_id="NULL" type="bigcilin">双方在</e>
+        <e start="17" length="2" baike_id="2621" type="Ns|href">北京</e>
+        <e start="22" length="6" baike_id="71093" type="href">中英联合声明</e>
+      </sentence>
+      <sentence>
+        <s_text>签署当日，中英双方分别以中华人民共和国外交部和英国驻华大使馆的名义，互相交换了关于香港居民国籍问题的备忘录。</s_text>
+        <e start="5" length="1" baike_id="NULL" type="Ns">中</e>
+        <e start="6" length="1" baike_id="NULL" type="Ns">英</e>
+        <e start="12" length="7" baike_id="1256" type="href">中华人民共和国</e>
+        <e start="12" length="10" baike_id="NULL" type="Ni|bigcilin">中华人民共和国外交部</e>
+        <e start="23" length="2" baike_id="NULL" type="Ns">英国</e>
+        <e start="27" length="3" baike_id="NULL" type="bigcilin">大使馆</e>
+        <e start="41" length="2" baike_id="NULL" type="Ns">香港</e>
+        <e start="50" length="3" baike_id="NULL" type="bigcilin">备忘录</e>
+      </sentence>
+      <sentence>
+        <s_text>英方在备忘录中表示，在1997年6月30日或之前由于同香港的关系为英国属土公民者，从1997年7月1日起，不再是英国属土公民，但将有资格保留某种适当地位，使其可继续使用英国政府签发的护照，而不赋予在英国的居留权。</s_text>
+        <e start="3" length="3" baike_id="NULL" type="bigcilin">备忘录</e>
+        <e start="16" length="5" baike_id="NULL" type="bigcilin">6月30日</e>
+        <e start="27" length="2" baike_id="NULL" type="Ns">香港</e>
+        <e start="33" length="2" baike_id="NULL" type="Ns">英国</e>
+        <e start="42" length="5" baike_id="286682" type="href">1997年</e>
+        <e start="42" length="9" baike_id="NULL" type="bigcilin">1997年7月1日</e>
+        <e start="84" length="4" baike_id="NULL" type="Ni">英国政府</e>
+        <e start="102" length="3" baike_id="NULL" type="bigcilin">居留权</e>
+      </sentence>
+    </par>
+    <par>
+      <sentence>
+        <s_text>老子认为道生成天地万物的过程是“道生一，一生二，二生三，三生万物”（四十二章）。</s_text>
+        <e start="0" length="2" baike_id="NULL" type="Nh">老子</e>
+        <e start="16" length="3" baike_id="NULL" type="bigcilin">道生一</e>
+        <e start="28" length="4" baike_id="NULL" type="bigcilin">三生万物</e>
+      </sentence>
+      <sentence>
+        <s_text>道生成万物之后，又作为天地万物存在的根据而蕴涵于天地万物自身之中，道是普遍存在的，无间不入，无所不包。</s_text>
+        <e start="35" length="4" baike_id="NULL" type="bigcilin">普遍存在</e>
+        <e start="46" length="4" baike_id="NULL" type="bigcilin">无所不包</e>
+      </sentence>
+      <sentence>
+        <s_text>道虽存在于天地万物之中，但它不同于可感觉的具体事物，它是视之不见、听之不闻、搏之不得的，是构成天地万物共同本质的东西。</s_text>
+        <e start="21" length="4" baike_id="NULL" type="bigcilin">具体事物</e>
+      </sentence>
+      <sentence>
+        <s_text>所以，“道”存在于人类语言及图文之外，心灵可以感知而无法言传和图示。</s_text>
+        <e start="9" length="4" baike_id="NULL" type="bigcilin">人类语言</e>
+      </sentence>
+      <sentence>
+        <s_text>——不能靠感觉器官去体认，也难以用普通字词去表示，只能用比喻和描述来说明它的存在。</s_text>
+        <e start="5" length="4" baike_id="NULL" type="bigcilin">感觉器官</e>
+      </sentence>
+    </par>
+    <par>
+      <sentence>
+        <s_text>道虚是道的状态，它无形无象，无处不在，没有边际。</s_text>
+        <e start="14" length="4" baike_id="NULL" type="bigcilin">无处不在</e>
+      </sentence>
+      <sentence>
+        <s_text>它又无时不在，无始无终，是最大的虚空，它产生出万物，是万物的宗主；装载着万物，永远也装不满。</s_text>
+        <e start="7" length="4" baike_id="NULL" type="bigcilin">无始无终</e>
+      </sentence>
+      <sentence>
+        <s_text>它的作用无穷无尽，道虚的作用就是无的作用。</s_text>
+        <e start="4" length="4" baike_id="NULL" type="bigcilin">无穷无尽</e>
+      </sentence>
+      <sentence>
+        <s_text>它能化解万物的矛盾，协调万物的关系，与万物混而为一。</s_text>
+      </sentence>
+    </par>
+    <par>
+      <sentence>
+        <s_text>《古兰经》简明概述是：真主是最高的实在，唯一的真宰，最高的养育者、盟誓和契约的监督者、万物的创造主，他自有自在，无始无终，永恒，无形无相，至仁至慈，赏善罚恶，本然自立，无所不能，超绝时空而又无所不在，绝对彻底独一，无偶，全知全能，同时又威严无比，善恶必报，清算神速。</s_text>
+        <e start="1" length="3" baike_id="NULL" type="bigcilin">古兰经</e>
+        <e start="56" length="4" baike_id="NULL" type="bigcilin">无始无终</e>
+        <e start="69" length="2" baike_id="NULL" type="Ns">至仁</e>
+        <e start="74" length="4" baike_id="NULL" type="bigcilin">赏善罚恶</e>
+        <e start="84" length="4" baike_id="NULL" type="bigcilin">无所不能</e>
+        <e start="95" length="4" baike_id="NULL" type="bigcilin">无所不在</e>
+        <e start="110" length="4" baike_id="NULL" type="bigcilin">全知全能</e>
+      </sentence>
+    </par>
+    <par>
+      <sentence>
+        <s_text>安拉（Allāh）的字源，是由阿拉伯文的定冠词al（英语：the）与阿拉伯文的ʼilāh（意思为神明）所组成，意思是绝对独一的神。</s_text>
+        <e start="0" length="2" baike_id="NULL" type="Nh">安拉</e>
+        <e start="15" length="4" baike_id="NULL" type="Nh|bigcilin">阿拉伯文</e>
+        <e start="20" length="3" baike_id="NULL" type="bigcilin">定冠词</e>
+        <e start="48" length="1" baike_id="NULL" type="doc_name">神</e>
+        <e start="48" length="2" baike_id="NULL" type="Nh">神明</e>
+      </sentence>
+      <sentence>
+        <s_text>对伊斯兰教起源和教义欠缺了解的一般人，则常误认伊斯兰教的神和犹太教、基督教的神称呼并不相同。</s_text>
+        <e start="1" length="4" baike_id="9414" type="bigcilin|href">伊斯兰教</e>
+        <e start="28" length="1" baike_id="NULL" type="doc_name">神</e>
+        <e start="30" length="3" baike_id="NULL" type="bigcilin">犹太教</e>
+        <e start="34" length="3" baike_id="NULL" type="bigcilin">基督教</e>
+      </sentence>
+      <sentence>
+        <s_text>其实只是阿拉伯语和希伯来语对同一个神讲法不同，音译后在各种语言中用词也不相同造成的误认。</s_text>
+        <e start="4" length="4" baike_id="NULL" type="bigcilin">阿拉伯语</e>
+        <e start="9" length="4" baike_id="NULL" type="bigcilin">希伯来语</e>
+        <e start="17" length="1" baike_id="NULL" type="doc_name">神</e>
+      </sentence>
+    </par>
+    <par>
+      <sentence>
+        <s_text>吠檀多派是构成大多数现代印度教派别的基础。</s_text>
+        <e start="0" length="4" baike_id="NULL" type="bigcilin">吠檀多派</e>
+        <e start="12" length="2" baike_id="NULL" type="Ns">印度</e>
+      </sentence>
+      <sentence>
+        <s_text>三种基本的吠檀多经典是《奥义书》、《薄伽梵歌》和《梵经》。</s_text>
+        <e start="12" length="3" baike_id="NULL" type="bigcilin">奥义书</e>
+        <e start="18" length="4" baike_id="NULL" type="bigcilin">薄伽梵歌</e>
+      </sentence>
+    </par>
+    <par>
+      <sentence>
+        <s_text>《梵经》认为，世界的最高主宰是“梵”，“梵”是宇宙精神，是无限、无所不在、永恒不灭的精神实体，它既没有差别，也没有形态和属性，不能以概念来理解，不可用言语来表达；它是超越人类感觉经验的永不磨灭者，是世界各种现象产生、维持和毁灭的终极原因。</s_text>
+        <e start="23" length="4" baike_id="NULL" type="bigcilin">宇宙精神</e>
+        <e start="32" length="4" baike_id="NULL" type="bigcilin">无所不在</e>
+        <e start="42" length="4" baike_id="NULL" type="bigcilin">精神实体</e>
+      </sentence>
+    </par>
+    <par>
+      <sentence>
+        <s_text>《梵经》认为“生命我”（个体灵魂）具有普遍灵魂或最高精神的内涵，但与最高我或普遍我（梵）有所不同，最高我是永恒的，不被创造，而生命我是由最高我演变的。</s_text>
+        <e start="1" length="1" baike_id="NULL" type="Nh">梵</e>
+      </sentence>
+      <sentence>
+        <s_text>生命我和最高我在本质上是同一的，正象瓶子内、外的虚空是相同的一样，而在形式上是不同的。</s_text>
+      </sentence>
+      <sentence>
+        <s_text>生命我受到非永恒的器官的局限。</s_text>
+      </sentence>
+      <sentence>
+        <s_text>这种“梵我如一”的思想是继承了奥义书中唯心主义的中心思想。</s_text>
+        <e start="3" length="4" baike_id="NULL" type="bigcilin">梵我如一</e>
+        <e start="15" length="3" baike_id="NULL" type="bigcilin">奥义书</e>
+        <e start="19" length="4" baike_id="NULL" type="bigcilin">唯心主义</e>
+        <e start="24" length="4" baike_id="NULL" type="bigcilin">中心思想</e>
+      </sentence>
+    </par>
+    <par>
+      <sentence>
+        <s_text>关于自然和梵的关系，《梵经》认为，世界是由梵构成的，梵是自然的质料因，也是世界形成的动力因，它是自然的作者、主宰者；梵创造了世界的多样性，它是大自然的形相因；大自然是梵演变的目的。</s_text>
+        <e start="5" length="1" baike_id="NULL" type="Nh">梵</e>
+        <e start="54" length="3" baike_id="NULL" type="bigcilin">主宰者</e>
+        <e start="65" length="3" baike_id="NULL" type="bigcilin">多样性</e>
+        <e start="71" length="3" baike_id="NULL" type="bigcilin">大自然</e>
+      </sentence>
+      <sentence>
+        <s_text>总之，物质世界和我都是梵的一部分，由梵演变出来并完全受梵的制约；梵、我在本质上相同，而在形式上不同，所以《梵经》时代的吠檀多理论被称为“不一不异论”。</s_text>
+        <e start="3" length="4" baike_id="NULL" type="bigcilin">物质世界</e>
+        <e start="11" length="1" baike_id="NULL" type="Nh">梵</e>
+      </sentence>
+    </par>
+    <par>
+      <sentence>
+        <s_text>不同宗教的所有祈祷文，比如印度教，伊斯兰教和基督教，都提及“造物主”。</s_text>
+        <e start="13" length="3" baike_id="53370" type="bigcilin|href">印度教</e>
+        <e start="17" length="4" baike_id="9414" type="bigcilin|href">伊斯兰教</e>
+        <e start="22" length="3" baike_id="8241" type="bigcilin|href">基督教</e>
+        <e start="30" length="3" baike_id="1260298" type="bigcilin|href">造物主</e>
+      </sentence>
+      <sentence>
+        <s_text>造物主是一切的生物，包括人类，所面对的最大奥秘。</s_text>
+        <e start="0" length="3" baike_id="NULL" type="bigcilin">造物主</e>
+      </sentence>
+      <sentence>
+        <s_text>除非且直到人有意识地与造物主合一并证悟自己与神为一，否则奥秘就不能被揭开或完成；神乃是造物主和造物界合一，在其无限存在中同时包含并超越了二者。</s_text>
+        <e start="11" length="3" baike_id="NULL" type="bigcilin">造物主</e>
+      </sentence>
+    </par>
+    <par>
+      <sentence>
+        <s_text>典型代表人物有：乔奈波陀(640～690)。</s_text>
+        <e start="2" length="4" baike_id="NULL" type="bigcilin">代表人物</e>
+        <e start="8" length="4" baike_id="NULL" type="Nh">乔奈波陀</e>
+      </sentence>
+      <sentence>
+        <s_text>他著有《蛙氏奥义颂》。</s_text>
+      </sentence>
+      <sentence>
+        <s_text>该著作共4章215颂，对于梵、我、幻的关系提出4点看法：①宇宙最高实体是梵，梵是绝对真实的存在；</s_text>
+        <e start="13" length="1" baike_id="NULL" type="Ns">梵</e>
+      </sentence>
+    </par>
+    <par>
+      <sentence>
+        <s_text>②自然界是梵通过一种称为摩耶(Māyā)的魔力创造出来的，是一种不真实的表象；③我（灵魂）和梵同一不二；④解脱的最高目的是亲证梵我如一，认识灵魂的真正本性。</s_text>
+        <e start="1" length="3" baike_id="NULL" type="bigcilin">自然界</e>
+        <e start="46" length="3" baike_id="NULL" type="Nh">梵同一</e>
+        <e start="63" length="4" baike_id="NULL" type="bigcilin">梵我如一</e>
+      </sentence>
+    </par>
+    <par>
+      <sentence>
+        <s_text>其他代表人物：商羯罗，罗摩奴阇，摩陀婆等人。</s_text>
+        <e start="2" length="4" baike_id="NULL" type="bigcilin">代表人物</e>
+        <e start="7" length="3" baike_id="NULL" type="Nh|bigcilin">商羯罗</e>
+        <e start="11" length="4" baike_id="NULL" type="Nh|bigcilin">罗摩奴阇</e>
+      </sentence>
+    </par>
+    <par>
+      <sentence>
+        <s_text>印度教中，婆罗门神（梵天）为最高神；印度宗教文化中又有众神之首因陀罗（帝释天）以及主神梵天、毗湿奴、湿婆等，不同时代不同教派各个神的地位也不尽相同。</s_text>
+        <e start="0" length="2" baike_id="NULL" type="Ns">印度</e>
+        <e start="0" length="3" baike_id="NULL" type="bigcilin">印度教</e>
+        <e start="8" length="1" baike_id="NULL" type="doc_name">神</e>
+        <e start="10" length="2" baike_id="NULL" type="Nh">梵天</e>
+        <e start="18" length="4" baike_id="NULL" type="bigcilin">印度宗教</e>
+        <e start="27" length="3" baike_id="NULL" type="bigcilin">众神之</e>
+        <e start="32" length="2" baike_id="NULL" type="Nh">陀罗</e>
+        <e start="35" length="3" baike_id="NULL" type="Nh|bigcilin">帝释天</e>
+        <e start="46" length="3" baike_id="NULL" type="bigcilin">毗湿奴</e>
+        <e start="69" length="4" baike_id="NULL" type="bigcilin">不尽相同</e>
+      </sentence>
+    </par>
+    <par>
+      <sentence>
+        <s_text>印度教创造之神梵天(Brahma)，传说是从漂浮在混沌汪洋中的宇宙金卵里孵化出来的，或者是从毗湿奴肚脐里长出的一朵莲花中诞生的，然后他开始创造世界万物。</s_text>
+        <e start="0" length="3" baike_id="NULL" type="bigcilin">印度教</e>
+      </sentence>
+    </par>
+    <par>
+      <sentence>
+        <s_text>印度教中的毗湿奴派，认为毗湿奴是宇宙的主宰，印度教中湿婆派则认为，湿婆才是宇宙的主宰，但无论是毗湿奴派还是湿婆派都认为，梵天的地位在湿婆和毗湿奴之下。</s_text>
+        <e start="0" length="3" baike_id="NULL" type="bigcilin">印度教</e>
+        <e start="5" length="3" baike_id="NULL" type="bigcilin">毗湿奴</e>
+        <e start="5" length="4" baike_id="NULL" type="bigcilin">毗湿奴派</e>
+        <e start="26" length="3" baike_id="NULL" type="bigcilin">湿婆派</e>
+        <e start="60" length="2" baike_id="NULL" type="Nh">梵天</e>
+      </sentence>
+    </par>
+    <par>
+      <sentence>
+        <s_text>佛是大智、大悲（或谓全智、全悲）与大能的人。</s_text>
+      </sentence>
+      <sentence>
+        <s_text>简单的说，佛就是‘觉者’，‘一个觉悟的人’。</s_text>
+      </sentence>
+    </par>
+    <par>
+      <sentence>
+        <s_text>佛陀的出现对打破当时的印度教的迷信与等级对立起到一个革命的作用，并提出一个全新的概念：一切人类及众生，同具佛性，一律平等，人人皆可成佛。</s_text>
+        <e start="11" length="3" baike_id="NULL" type="Ni|bigcilin">印度教</e>
+      </sentence>
+    </par>
+    <par>
+      <sentence>
+        <s_text>佛不仅是和其他宗教中的万能上帝不同，佛陀告诉我们：这个理智、情感及能力都能同时达到最圆满境地的人格（佛法中也叫做佛性）人人原都具有。</s_text>
+      </sentence>
+      <sentence>
+        <s_text>只有像平静的湖面上起了波涛，失去了明镜似的水面一样；人类恋著于外境及现象，与假定的诸般设想，为所谓生存、名利、情爱、权力疲于奔命，一直到老死，还不觉悟，因此埋没了本具的佛性；使其本具的至高的理智，至富的情感及无限的能力，不能同时达到最圆满的境地，不能从烦恼苦痛中解放出来。</s_text>
+        <e start="60" length="4" baike_id="NULL" type="bigcilin">疲于奔命</e>
+      </sentence>
+      <sentence>
+        <s_text>佛陀说法应世的目的，即是在教导众生，开显其本具的佛性。</s_text>
+        <e start="0" length="4" baike_id="NULL" type="bigcilin">佛陀说法</e>
+      </sentence>
+      <sentence>
+        <s_text>佛的悲愿，是要使人人及一切众生都成为和自己一样至善至上的佛陀。</s_text>
+      </sentence>
+    </par>
+  </doc>
+  <doc name="六合县冶山镇沟王小学" url="http://baike.baidu.com/view/10008459.html" id="987" baike_id="10008459" time="2013-10-14 10:53:08">
+    <par>
+      <sentence>
+        <s_text>六合县冶山镇沟王小学位于江苏省南京市六合县冶山镇石柱林村。</s_text>
+        <e start="0" length="3" baike_id="NULL" type="bigcilin">六合县</e>
+        <e start="0" length="10" baike_id="NULL" type="Ni">六合县冶山镇沟王小学</e>
+        <e start="3" length="3" baike_id="NULL" type="bigcilin">冶山镇</e>
+        <e start="12" length="3" baike_id="NULL" type="bigcilin">江苏省</e>
+        <e start="12" length="16" baike_id="NULL" type="Ns">江苏省南京市六合县冶山镇石柱林村</e>
+        <e start="15" length="3" baike_id="NULL" type="bigcilin">南京市</e>
+      </sentence>
+      <sentence>
+        <s_text>六合县冶山镇沟王小学自建校以来，各级领导高度重视学校发展，不断加大教育投入，使学校办学规模、办学质量、社会效益不断发展。</s_text>
+        <e start="0" length="3" baike_id="NULL" type="bigcilin">六合县</e>
+        <e start="0" length="10" baike_id="NULL" type="Ni">六合县冶山镇沟王小学</e>
+        <e start="3" length="3" baike_id="NULL" type="bigcilin">冶山镇</e>
+        <e start="51" length="4" baike_id="NULL" type="bigcilin">社会效益</e>
+      </sentence>
+      <sentence>
+        <s_text>六合县冶山镇沟王小学占地面积大，绿化覆盖率高，设施齐备，有普通教室、专用教室、多媒体教室、实验室、舞蹈房、课件制作室、电脑房、儿童化阅览室，此外还有校史室、红领巾广播室、图书馆。</s_text>
+        <e start="0" length="3" baike_id="NULL" type="bigcilin">六合县</e>
+        <e start="0" length="10" baike_id="NULL" type="Ni">六合县冶山镇沟王小学</e>
+        <e start="3" length="3" baike_id="NULL" type="bigcilin">冶山镇</e>
+        <e start="18" length="3" baike_id="NULL" type="bigcilin">覆盖率</e>
+        <e start="39" length="5" baike_id="NULL" type="bigcilin">多媒体教室</e>
+        <e start="45" length="3" baike_id="NULL" type="bigcilin">实验室</e>
+        <e start="59" length="3" baike_id="NULL" type="bigcilin">电脑房</e>
+        <e start="66" length="3" baike_id="NULL" type="bigcilin">阅览室</e>
+        <e start="78" length="3" baike_id="NULL" type="bigcilin">红领巾</e>
+        <e start="81" length="3" baike_id="NULL" type="bigcilin">广播室</e>
+        <e start="85" length="3" baike_id="NULL" type="bigcilin">图书馆</e>
+      </sentence>
+      <sentence>
+        <s_text>图书室藏书35000册。</s_text>
+        <e start="0" length="3" baike_id="NULL" type="bigcilin">图书室</e>
+      </sentence>
+      <sentence>
+        <s_text>同时全校有学生专用电脑280多台。</s_text>
+      </sentence>
+      <sentence>
+        <s_text>校内有环形跑道的田径场，室外足球场，室内体育馆设有篮球场、排球场、羽毛球场、乒乓球室，另外还有武术房、健身房、形体训练房。</s_text>
+        <e start="8" length="3" baike_id="NULL" type="bigcilin">田径场</e>
+        <e start="14" length="3" baike_id="NULL" type="bigcilin">足球场</e>
+        <e start="20" length="3" baike_id="NULL" type="bigcilin">体育馆</e>
+        <e start="25" length="3" baike_id="NULL" type="bigcilin">篮球场</e>
+        <e start="29" length="3" baike_id="NULL" type="bigcilin">排球场</e>
+        <e start="33" length="4" baike_id="NULL" type="bigcilin">羽毛球场</e>
+        <e start="51" length="3" baike_id="NULL" type="bigcilin">健身房</e>
+      </sentence>
+    </par>
+    <par>
+      <sentence>
+        <s_text>六合县冶山镇沟王小学发展的总体构想是，点上突破，面上推广，以点带面，均衡发展。</s_text>
+        <e start="0" length="3" baike_id="NULL" type="bigcilin">六合县</e>
+        <e start="0" length="10" baike_id="NULL" type="Ni">六合县冶山镇沟王小学</e>
+        <e start="3" length="3" baike_id="NULL" type="bigcilin">冶山镇</e>
+      </sentence>
+      <sentence>
+        <s_text>积极探索，选取好的方法，采取有效措施，积累好的经验带动学校优质均衡发展，实现六合县冶山镇沟王小学的新跨越。</s_text>
+        <e start="0" length="4" baike_id="NULL" type="bigcilin">积极探索</e>
+        <e start="14" length="4" baike_id="NULL" type="bigcilin">有效措施</e>
+        <e start="38" length="3" baike_id="NULL" type="bigcilin">六合县</e>
+        <e start="38" length="10" baike_id="NULL" type="Ni">六合县冶山镇沟王小学</e>
+        <e start="41" length="3" baike_id="NULL" type="bigcilin">冶山镇</e>
+      </sentence>
+      <sentence>
+        <s_text>校风：守纪、勤奋、诚实、健美教风：严谨、扎实、朴实、真实学风：刻苦、耐心、细致、灵活</s_text>
+      </sentence>
+    </par>
+    <par>
+      <sentence>
+        <s_text>地址：江苏省南京市六合县冶山镇江苏省六合县冶山镇石柱林村</s_text>
+        <e start="3" length="3" baike_id="NULL" type="bigcilin">江苏省</e>
+        <e start="3" length="25" baike_id="NULL" type="Ns">江苏省南京市六合县冶山镇江苏省六合县冶山镇石柱林村</e>
+        <e start="6" length="3" baike_id="NULL" type="bigcilin">南京市</e>
+        <e start="9" length="3" baike_id="NULL" type="bigcilin">六合县</e>
+        <e start="12" length="3" baike_id="NULL" type="bigcilin">冶山镇</e>
+      </sentence>
+    </par>
+  </doc>
+</docs>
